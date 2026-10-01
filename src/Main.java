@@ -1,5 +1,9 @@
 // TODO: musimy dodac brakujace klasy!
 
+// OK, ja dodam ‘Adder‘, a s32887 doda ‘Subtractor‘
+
+// Zastąp s00000
+
 public class Main {
     public static void main(String[] args) {
         Adder adder = new Adder();
